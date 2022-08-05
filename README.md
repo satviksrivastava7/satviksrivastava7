@@ -26,20 +26,4 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 </div>
 <hr size="2">
 <img src="https://activity-graph.herokuapp.com/graph?username=satviksrivastava7&theme=redical">
-
 <hr size="2">
-
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<hr size="2">
-
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<div align="center">
-![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=satviksrivastava7&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
- 
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=dark)](https://git.io/streak-stats)
-</div>
