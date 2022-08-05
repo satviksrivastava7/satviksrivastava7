@@ -25,7 +25,7 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=cobalt" width=350px>
 </div>
 <hr size="2">
-<img src="https://activity-graph.herokuapp.com/graph?username=staviksrivastava7&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=satviksrivastava7&theme=redical">
 
 <hr size="2">
 
