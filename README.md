@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I love Mathematics and Computer Science!
-I am a Sophomore in University of Petroleum and Energy Studies, Dehradun, currently pursuing my B.Tech Honors in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
+I am a sophomore in University of Petroleum and Energy Studies, Dehradun, currently pursuing my B.Tech Honors in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 I have deep interest in pure mathematics, computer science, web, app and game devlopment, mechatronics and robotics.
 
 ## 📈 My Stats!
 
-<div align=center>
-<img width= 500px height=400px src= "https://github-readme-stats.vercel.app/api?username=satviksrivastava7&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=radical" width= 500px height=400px>
-<img width=500px height=400px src=https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&langs_count=10&theme=radical>
+ <div align=center>
+  <img width= 500px height=400px src= "https://github-readme-stats.vercel.app/api?username=satviksrivastava7&theme=radical&show_icons=true&count_private=true&size=small">
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=radical" width= 500px height=400px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&langs_count=10&theme=radical" width=500px height=400px >
 </div>
 
 <hr size="2">
