@@ -24,7 +24,7 @@ I have deep interest in pure mathematics, computer science, web, app and game de
   <img width= 500px height=400px src= "https://github-readme-stats.vercel.app/api?username=satviksrivastava7&theme=radical&show_icons=true&count_private=true&size=small">
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=radical" width= 500px height=400px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&langs_count=10&theme=radical" width=500px height=400px >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&langs_count=10&theme=radical" width=500px height=200px >
 </div>
 
 <hr size="2">
