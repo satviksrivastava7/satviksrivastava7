@@ -33,9 +33,3 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 <img src="https://activity-graph.herokuapp.com/graph?username=satviksrivastava7&theme=redical">
 
 <hr size="2">
-
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<hr size="2">
