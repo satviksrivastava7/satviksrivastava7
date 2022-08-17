@@ -18,6 +18,8 @@ I love Mathematics and Computer Science!
 I am a sophomore in University of Petroleum and Energy Studies, Dehradun, currently pursuing my B.Tech Honors in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 I have deep interest in pure mathematics, computer science, web, app and game devlopment, mechatronics and robotics.
 
+I am learning game and web development, and AI-ML.
+
 ## 📈 My Stats!
 
  <div align=center>
