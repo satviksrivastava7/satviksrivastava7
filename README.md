@@ -4,7 +4,15 @@
 I love Mathematics and Computer Science!
 I am a sophomore in University of Petroleum and Energy Studies, Dehradun, currently pursuing my B.Tech Honors in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 I have deep interest in pure mathematics, computer science, web, app and game devlopment, mechatronics and robotics.
-
+<br>
+<br>
+Visit my repository: https://github.com/satviksrivastava7?tab=repositories
+<br>
+Visit my website: https://www.beinq.org/
+<br>
+Viste my project website: https://satviksrivastava7.github.io/GameDevWebsite/
+<br>
+<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/satvik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="satvik7" height="30" width="40" /></a>
