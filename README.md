@@ -21,6 +21,7 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 <br>
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -43,7 +44,8 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>
+<br>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -65,7 +67,8 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>
+<br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
