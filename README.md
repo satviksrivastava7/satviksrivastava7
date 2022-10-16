@@ -101,7 +101,7 @@ Viste my project website: https://satviksrivastava7.github.io/GameDevWebsite/
 ## 📈 My Stats!
 
  <div align=center>
-  <img src= "https://github-readme-stats.vercel.app/api?username=satviksrivastava7&theme=radical&show_icons=true&count_private=true&size=small" width=300px height=250px>
+  <img src= "https://github-readme-stats.vercel.app/api?username=satviksrivastava7&theme=radical&show_icons=true&count_private=true&size=small" width=300px height=400px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviksrivastava7&layout=compact&langs_count=10&theme=radical" width=300px height=250px>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satviksrivastava7&theme=radical" width=600px height=250px>
 </div>
