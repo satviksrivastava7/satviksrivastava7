@@ -113,3 +113,5 @@ Viste my project website: https://satviksrivastava7.github.io/GameDevWebsite/
 <img src="https://activity-graph.herokuapp.com/graph?username=satviksrivastava7&theme=redical">
 
 <hr size="2">
+
+[![@satvik7's Holopin board](https://holopin.me/satvik7)](https://holopin.io/@satvik7)
