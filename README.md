@@ -6,13 +6,11 @@ I am a sophomore in University of Petroleum and Energy Studies, Dehradun, curren
 I have deep interest in pure mathematics, computer science, web, app and game devlopment, mechatronics and robotics.
 <br>
 <br>
-Visit my repository: https://github.com/satviksrivastava7?tab=repositories
+View my Github Repository: https://github.com/satviksrivastava7?tab=repositories
 <br>
 View my Portfolio: https://satviksrivastava7.github.io/Portfolio
 <br>
-Visit my website: https://www.beinq.org/
-<br>
-Visit my project website: https://satviksrivastava7.github.io/GameDevWebsite/
+View the Website I created: https://www.beinq.org/
 <br>
 <br>
 <h2 align="left">Connect with me:</h2>
