@@ -8,9 +8,11 @@ I have deep interest in pure mathematics, computer science, web, app and game de
 <br>
 Visit my repository: https://github.com/satviksrivastava7?tab=repositories
 <br>
+View my Portfolio: https://satviksrivastava7.github.io/Portfolio
+<br>
 Visit my website: https://www.beinq.org/
 <br>
-Viste my project website: https://satviksrivastava7.github.io/GameDevWebsite/
+Visit my project website: https://satviksrivastava7.github.io/GameDevWebsite/
 <br>
 <br>
 <h2 align="left">Connect with me:</h2>
